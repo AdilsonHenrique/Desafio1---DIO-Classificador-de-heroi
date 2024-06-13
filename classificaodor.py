@@ -18,4 +18,4 @@ elif 8001 <= xp <= 9000:
 else:
     nivel = "radiante"
 
-print(f"Ola heroi {nome_heroi} verifique o seu nivel e atualmente você é {nivel}")
+print(f"O Herói de nome {nome_heroi} está no nível de {nivel}")
